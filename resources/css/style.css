@@ -2,11 +2,22 @@ body {
   background: black;
   text-align: center;
 }
-
-h1 {
+h1,h2,h3,h4,h5,h6,p {
   color: white;
+}
+p {
+  color: gray;
+  font-family: "Verdana";
+  font-size: 21px;
+}
+h1 {
   font-family: "Verdana";
   font-size: 50px;
+  text-align: center;
+}
+h2 {
+  font-family: "Verdana";
+  font-size: 42px;
   text-align: center;
 }
 .download-link {
