@@ -1,0 +1,15 @@
+body {
+  background: black;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: "Verdana";
+  font-size: 50px;
+  text-align: center;
+}
+.download-link {
+  color: aquamarine;
+  text-align: center;
+}
